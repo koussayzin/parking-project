@@ -1,0 +1,30 @@
+14362431;S031;lavage;100;Credit Card;1 year;15;Novembre;2024
+14362431;S032;vidange;150;Cash;3 months;20;Novembre;2024
+14362431;S033;lavage;80;Debit Card;6 months;05;Décembre;2024
+14362431;S034;vidange;200;Bank Transfer;2 years;10;Décembre;2024
+14362431;S035;lavage;110;Credit Card;1 month;17;Décembre;2024
+14362431;S036;vidange;75;Cash;1 year;08;Janvier;2025
+14362431;S037;lavage;120;Debit Card;3 months;22;Janvier;2025
+14362431;S038;vidange;90;Credit Card;6 months;11;Février;2025
+14362431;S039;lavage;105;Cash;1 month;18;Février;2025
+14362431;S040;vidange;145;Bank Transfer;2 years;23;Février;2025
+14362431;S041;lavage;95;Credit Card;1 month;02;Mars;2025
+14362431;S042;vidange;130;Debit Card;3 months;13;Mars;2025
+14362431;S043;lavage;150;Cash;6 months;21;Mars;2025
+14362431;S044;vidange;200;Bank Transfer;1 year;26;Mars;2025
+14362431;S045;lavage;115;Credit Card;2 years;10;Avril;2025
+14362431;S046;vidange;100;Cash;3 months;15;Avril;2025
+14362431;S047;lavage;90;Debit Card;6 months;27;Avril;2025
+14362431;S048;vidange;180;Bank Transfer;1 year;08;Mai;2025
+14362431;S049;lavage;140;Credit Card;2 years;14;Mai;2025
+14362431;S050;vidange;160;Cash;3 months;21;Mai;2025
+14362431;S051;lavage;85;Debit Card;6 months;29;Mai;2025
+14362431;S052;vidange;110;Bank Transfer;1 month;04;Juin;2025
+14362431;S053;lavage;120;Credit Card;1 year;11;Juin;2025
+14362431;S054;vidange;150;Cash;3 months;22;Juin;2025
+14362431;S055;lavage;95;Debit Card;6 months;01;Juillet;2025
+14362431;S056;vidange;130;Credit Card;2 years;13;Juillet;2025
+14362431;S057;lavage;140;Cash;1 month;19;Juillet;2025
+14362431;S058;vidange;200;Bank Transfer;3 months;27;Juillet;2025
+14362431;S059;lavage;105;Debit Card;6 months;06;Août;2025
+14362431;S060;vidange;175;Credit Card;1 year;18;Août;2025
